@@ -4,9 +4,10 @@ using namespace std;
 int main(){
 // write a program to calculate sum, difference, product, divion of two given numbers from user.
      
-	int num1,num2,sum,product,difference,division;
+	int num1,num2,sum,product,difference;
+	float division;
 
-	cout<< "enter fist value: ";
+	cout<< "enter first value: ";
 	cin >> num1;
 	cout<< "enter second value: ";
 	cin>> num2;
